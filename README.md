@@ -41,7 +41,7 @@ A user without an `ADMIN` role cannot perform operations, defined exclusively fo
 ## <p id="uml-models-diagram">🗺️UML models diagram</p>
 ![UML diagram](img/uml.png)
 
-## ⚙️Technologies used
+## <p id="technologies-used">⚙️Technologies used</p>
 * JDK 11     
 * Maven 4.0.0
 * Apache Tomcat 9.0.50 
