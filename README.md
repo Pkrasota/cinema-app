@@ -31,14 +31,14 @@ authorization, and various CRUD operations (Create, Read, Update, Delete).
 There is also another endpoint for registering new users, which is available to everyone: `/register`
 A user without an `ADMIN` role cannot perform operations, defined exclusively for users with `ADMIN` roles.
 
-## 🏗️ <p id="architecture">Architecture</p>
+## <p id="architecture">🏗️Architecture</p>
 |       3-layer architecture       |
 |:--------------------------------:|
 | Controllers (Presentation layer) |
 |   Services (Application layer)   |
 |     DAO (Data access layer)      |
 
-## 🗺️UML models diagram
+## <p id="uml-models-diagram">🗺️UML models diagram</p>
 ![UML diagram](img/uml.png)
 
 ## ⚙️Technologies used
