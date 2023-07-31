@@ -10,89 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19130baa-f111-46e6-b587-74c1e1738f98" name="Changes" comment="added README">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4b37f526-7385-4524-a6ec-cfd64af40d31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4b37f526-7385-4524-a6ec-cfd64af40d31.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/config/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/config/DataInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/config/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/config/SecurityInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/config/WebAppInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/config/WebConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/AuthenticationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/CinemaHallController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/CustomGlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/MovieController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/MovieSessionController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/ShoppingCartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/AbstractDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/CinemaHallDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/MovieDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/MovieSessionDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/OrderDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/RoleDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/ShoppingCartDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/TicketDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/CinemaHallDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/MovieDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/MovieSessionDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/OrderDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/RoleDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/ShoppingCartDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/TicketDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dao/impl/UserDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/request/CinemaHallRequestDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/request/MovieRequestDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/request/MovieSessionRequestDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/request/UserRequestDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/response/CinemaHallResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/response/MovieResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/response/MovieSessionResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/response/OrderResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/response/ShoppingCartResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/dto/response/UserResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/exception/DataProcessingException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/lib/EmailValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/lib/FieldsValueMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/lib/FieldsValueMatchValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/lib/ValidEmail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/CinemaHall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/MovieSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/Ticket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/AuthenticationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/CinemaHallService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/MovieService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/MovieSessionService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/RoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/ShoppingCartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/AuthenticationServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/CinemaHallServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/CustomUserDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/MovieServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/MovieSessionServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/OrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/RoleServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/ShoppingCartServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/CinemaHallMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/MovieMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/MovieSessionMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/OrderMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/RequestDtoMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/ResponseDtoMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/ShoppingCartMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/service/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mate/academy/spring/util/DateTimePatternUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,31 +39,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "project-finalizzing",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "spring.configuration.checksum": "af37066bc064ca4618fe64a7aba4c604",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;project-finalizzing&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;af37066bc064ca4618fe64a7aba4c604&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.76" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.76" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -246,6 +165,8 @@
       <workItem from="1690382516140" duration="409000" />
       <workItem from="1690383190021" duration="4118000" />
       <workItem from="1690534402645" duration="749000" />
+      <workItem from="1690803533875" duration="653000" />
+      <workItem from="1690809191688" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed some issues with launch">
       <option name="closed" value="true" />
